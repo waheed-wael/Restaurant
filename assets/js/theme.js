@@ -1436,13 +1436,6 @@ utils.$document.ready(function () {
       $[_0x2ed6("0xbf")](!1);
     }
   ),
-  utils[_0x2ed6("0x1c")][_0x2ed6("0x1d")](function () {
-    var e = $("#preloader");
-    e[_0x2ed6("0x2a")]("loaded"),
-      setTimeout(function () {
-        e[_0x2ed6("0xc3")]();
-      }, 800);
-  }),
   window[_0x2ed6("0xc4")][_0x2ed6("0x1c")][_0x2ed6("0x1d")](function () {
     var e = $(_0x2ed6("0xc5"));
     window.utils.$window.on("scroll", function () {
